@@ -1,9 +1,15 @@
 {
-  "extract_dir": ".",
+  "description": "terramate is a exe to download",
   "depends": "",
   "version": "v0.5.5",
   "homepage": "",
-  "url": "https://github.com/terramate-io/terramate/releases/download/v0.5.5/terramate_0.5.5_windows_x86_64.zip",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/terramate-io/terramate/releases/download/v0.5.5/terramate_0.5.5_windows_x86_64.zip",
+      "extract_dir": "."
+    }
+  },
+
   "hash": "",
   "bin": "terramate.exe",
   "license": ""
