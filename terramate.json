@@ -1,0 +1,10 @@
+{
+  "extract_dir": ".",
+  "depends": "",
+  "version": "v0.5.5",
+  "homepage": "",
+  "url": "https://github.com/terramate-io/terramate/releases/download/v0.5.5/terramate_0.5.5_windows_x86_64.zip",
+  "hash": "",
+  "bin": "terramate.exe",
+  "license": ""
+}
