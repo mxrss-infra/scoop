@@ -1,5 +1,5 @@
 {
-  "version": "0.5.5",
+  "version": "0.10.0",
   "description": "Terramate tool for terraform automation",
   "homepage": "https://www.terramate.com",
   "license": "Apache-2.0",
